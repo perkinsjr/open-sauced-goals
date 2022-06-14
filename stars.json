@@ -25,9 +25,9 @@
   },
   {
     "full_name": "buildspace/buildspace-projects",
-    "stargazers_count": 1909,
-    "open_issues_count": 111,
-    "forks_count": 645
+    "stargazers_count": 1918,
+    "open_issues_count": 117,
+    "forks_count": 650
   },
   {
     "full_name": "kvssankar/git-ultimate-cloner-npm",
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "colbyfayock/next-wordpress-starter",
-    "stargazers_count": 616,
+    "stargazers_count": 618,
     "open_issues_count": 28,
-    "forks_count": 161
+    "forks_count": 164
   },
   {
     "full_name": "tinacms/tina-cloud-starter",
@@ -61,27 +61,27 @@
   },
   {
     "full_name": "tinacms/tinacms",
-    "stargazers_count": 7497,
-    "open_issues_count": 114,
-    "forks_count": 369
+    "stargazers_count": 7505,
+    "open_issues_count": 118,
+    "forks_count": 370
   },
   {
     "full_name": "peter-murray/node-hue-api",
-    "stargazers_count": 1129,
+    "stargazers_count": 1130,
     "open_issues_count": 16,
     "forks_count": 138
   },
   {
     "full_name": "Xtremilicious/projectlearn-project-based-learning",
-    "stargazers_count": 1205,
+    "stargazers_count": 1208,
     "open_issues_count": 11,
     "forks_count": 123
   },
   {
     "full_name": "frinyvonnick/node-html-to-image",
-    "stargazers_count": 526,
+    "stargazers_count": 527,
     "open_issues_count": 15,
-    "forks_count": 76
+    "forks_count": 77
   },
   {
     "full_name": "madlabsinc/mevn-cli",
@@ -97,21 +97,21 @@
   },
   {
     "full_name": "madlabsinc/teachcode",
-    "stargazers_count": 345,
+    "stargazers_count": 346,
     "open_issues_count": 13,
     "forks_count": 67
   },
   {
     "full_name": "hoppscotch/hoppscotch",
-    "stargazers_count": 44168,
-    "open_issues_count": 86,
-    "forks_count": 2964
+    "stargazers_count": 44242,
+    "open_issues_count": 94,
+    "forks_count": 2967
   },
   {
     "full_name": "rShetty/awesome-podcasts",
-    "stargazers_count": 10876,
+    "stargazers_count": 10882,
     "open_issues_count": 7,
-    "forks_count": 631
+    "forks_count": 630
   },
   {
     "full_name": "christopherkade/twitter-thread-generator",
@@ -127,25 +127,25 @@
   },
   {
     "full_name": "kefranabg/readme-md-generator",
-    "stargazers_count": 9578,
+    "stargazers_count": 9587,
     "open_issues_count": 29,
-    "forks_count": 1091
+    "forks_count": 1090
   },
   {
     "full_name": "oliver-gomes/csswand",
-    "stargazers_count": 1134,
+    "stargazers_count": 1136,
     "open_issues_count": 20,
     "forks_count": 33
   },
   {
     "full_name": "FullHuman/purgecss",
-    "stargazers_count": 6977,
+    "stargazers_count": 6981,
     "open_issues_count": 38,
-    "forks_count": 243
+    "forks_count": 242
   },
   {
     "full_name": "kefranabg/bento-starter",
-    "stargazers_count": 1525,
+    "stargazers_count": 1526,
     "open_issues_count": 24,
     "forks_count": 138
   },
@@ -164,19 +164,19 @@
   {
     "full_name": "gkozlenko/node-video-lib",
     "stargazers_count": 298,
-    "open_issues_count": 4,
+    "open_issues_count": 5,
     "forks_count": 16
   },
   {
     "full_name": "255kb/stack-on-a-budget",
-    "stargazers_count": 11075,
+    "stargazers_count": 11076,
     "open_issues_count": 2,
-    "forks_count": 499
+    "forks_count": 498
   },
   {
     "full_name": "framework7io/framework7",
-    "stargazers_count": 16774,
-    "open_issues_count": 100,
+    "stargazers_count": 16777,
+    "open_issues_count": 102,
     "forks_count": 3309
   }
 ]
