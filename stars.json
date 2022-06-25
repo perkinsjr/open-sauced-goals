@@ -1,7 +1,7 @@
 [
   {
     "full_name": "capri-js/capri",
-    "stargazers_count": 14,
+    "stargazers_count": 15,
     "open_issues_count": 9,
     "forks_count": 0
   },
@@ -25,15 +25,15 @@
   },
   {
     "full_name": "tinacms/tina-docs-starter",
-    "stargazers_count": 8,
+    "stargazers_count": 9,
     "open_issues_count": 9,
     "forks_count": 6
   },
   {
     "full_name": "buildspace/buildspace-projects",
     "stargazers_count": 1936,
-    "open_issues_count": 107,
-    "forks_count": 658
+    "open_issues_count": 109,
+    "forks_count": 660
   },
   {
     "full_name": "kvssankar/git-ultimate-cloner-npm",
@@ -50,7 +50,7 @@
   {
     "full_name": "bradgarropy/hue-sdk",
     "stargazers_count": 40,
-    "open_issues_count": 10,
+    "open_issues_count": 11,
     "forks_count": 3
   },
   {
@@ -67,21 +67,21 @@
   },
   {
     "full_name": "tinacms/tinacms",
-    "stargazers_count": 7546,
-    "open_issues_count": 113,
-    "forks_count": 375
+    "stargazers_count": 7548,
+    "open_issues_count": 115,
+    "forks_count": 376
   },
   {
     "full_name": "peter-murray/node-hue-api",
-    "stargazers_count": 1130,
+    "stargazers_count": 1131,
     "open_issues_count": 16,
     "forks_count": 138
   },
   {
     "full_name": "Xtremilicious/projectlearn-project-based-learning",
-    "stargazers_count": 1222,
+    "stargazers_count": 1223,
     "open_issues_count": 11,
-    "forks_count": 124
+    "forks_count": 125
   },
   {
     "full_name": "frinyvonnick/node-html-to-image",
@@ -97,7 +97,7 @@
   },
   {
     "full_name": "saasify-sh/saasify",
-    "stargazers_count": 1078,
+    "stargazers_count": 1079,
     "open_issues_count": 7,
     "forks_count": 83
   },
@@ -109,13 +109,13 @@
   },
   {
     "full_name": "hoppscotch/hoppscotch",
-    "stargazers_count": 44515,
-    "open_issues_count": 88,
+    "stargazers_count": 44535,
+    "open_issues_count": 90,
     "forks_count": 2994
   },
   {
     "full_name": "rShetty/awesome-podcasts",
-    "stargazers_count": 10898,
+    "stargazers_count": 10901,
     "open_issues_count": 7,
     "forks_count": 629
   },
@@ -133,19 +133,19 @@
   },
   {
     "full_name": "kefranabg/readme-md-generator",
-    "stargazers_count": 9627,
+    "stargazers_count": 9632,
     "open_issues_count": 29,
     "forks_count": 1106
   },
   {
     "full_name": "oliver-gomes/csswand",
-    "stargazers_count": 1141,
+    "stargazers_count": 1142,
     "open_issues_count": 20,
     "forks_count": 33
   },
   {
     "full_name": "FullHuman/purgecss",
-    "stargazers_count": 7005,
+    "stargazers_count": 7008,
     "open_issues_count": 50,
     "forks_count": 243
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "255kb/stack-on-a-budget",
-    "stargazers_count": 11082,
-    "open_issues_count": 3,
+    "stargazers_count": 11083,
+    "open_issues_count": 2,
     "forks_count": 498
   }
 ]
